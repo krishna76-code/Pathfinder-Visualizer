@@ -1,9 +1,9 @@
 # Pathfinder-Visualizer
-# Pathfinder Visualizer
 
 A visual and interactive web application that demonstrates popular pathfinding algorithms like **Breadth-First Search (BFS)**, **Depth-First Search (DFS)**, and **Dijkstra's Algorithm** on a customizable grid.
 
-![screenshot](https://via.placeholder.com/800x400?text=Demo+Screenshot) <!-- Replace with actual screenshot or GIF -->
+![screenshot]
+![a87e6122-f3d2-4ab9-b7e7-dbde89b61e7c](https://github.com/user-attachments/assets/1bcbc508-a48b-4476-a77d-847efd0e492b)
 
 ## 🚀 Features
 
